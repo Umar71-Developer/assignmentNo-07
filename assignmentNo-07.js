@@ -12,3 +12,7 @@ const lowercase = name2.toLowerCase();
 console.log(lowercase);
 const uppercase = name2.toUpperCase();
 console.log(uppercase);
+///Q4...Famous Quote: Find a quote from a famous person you admir.Print the quote and the name of its author. Your output should look something like following, including the quotation marks:
+//Albert Einstein once said,"A person who never made a mistake never tried anything new."
+var quote = `The William Shakespeare said that : "All that glitters is not gold."`;
+console.log(quote);
